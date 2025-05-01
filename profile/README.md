@@ -1,7 +1,7 @@
 <h2 align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/blackLogoViit.svg" width="200">
+  <img alt="viit logo" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/blackLogoViit.svg" width="200">
 </picture>
 <!--   <img id="logo" src="https://raw.githubusercontent.com/vinnovateit/.github/main/assets/whiteLogoViit.svg" 
        alt="VinnovateIT Logo" width="200"/> -->
