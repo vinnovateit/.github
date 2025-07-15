@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  To put it simply... we are the answer to the question "What if Elon Musk and Albert Einstein had a brain child?"
+  In other words… think of it as the place where genius meets curiosity — and the result is pure magic.
 </p>
 
 <p align="center">
